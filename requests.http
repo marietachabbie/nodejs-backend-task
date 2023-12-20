@@ -1,0 +1,25 @@
+GET http://localhost:3000/
+
+###
+GET http://localhost:3000/users
+
+###
+GET http://localhost:3000/users/USER_UUID_EXAMPLE
+
+###
+POST http://localhost:3000/users/increment
+content-type: application/json
+
+{
+  "userId": "USER_UUID_EXAMPLE",
+  "amount": 2
+}
+
+###
+POST http://localhost:3000/users/decrement
+content-type: application/json
+
+{
+  "userId": "USER_UUID_EXAMPLE",
+  "amount": 2
+}
