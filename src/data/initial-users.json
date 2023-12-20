@@ -1,0 +1,17 @@
+[
+  {
+    "id": "b11652e1-0a48-47d1-bcc0-fba5b9af3a3e",
+    "balance": "10000",
+    "createdAt": "2023-12-20"
+  },
+  {
+    "id": "b081ff8c-88b8-4a85-95f8-7ec0a0661246",
+    "balance": "10000",
+    "createdAt": "2023-12-20"
+  },
+  {
+    "id": "ac9cd773-6592-4e90-ba45-fffcfe3c5bf8",
+    "balance": "10000",
+    "createdAt": "2023-12-20"
+  }
+]

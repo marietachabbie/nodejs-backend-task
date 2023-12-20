@@ -19,7 +19,7 @@ router.post("/increment", async (req, res) => {
     res.send(user);
   } catch (error) {
     console.error(error);
-    res.status(418).send(error.message)
+    res.status(418).send(error.message);
   }
 })
 
